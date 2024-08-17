@@ -1,6 +1,6 @@
-## Laravel 10.* Türkçe dil dosyaları
+## Laravel 11.* Türkçe dil dosyaları
 
-> "[Laravel Türkiye](http://laravel.gen.tr/)" tarafından Laravel 10.* sürümleri için tercüme edilen ve geliştirilen Laravel Türkçe dil dosyalarıdır.
+> "[Laravel Türkiye](http://laravel.gen.tr/)" tarafından Laravel 11.* sürümleri için tercüme edilen ve geliştirilen Laravel Türkçe dil dosyalarıdır.
 
 
 ### Dil dosyası kurulumu
