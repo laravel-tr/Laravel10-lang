@@ -53,5 +53,8 @@
   "The :attribute must contain at least one number.": ":attribute en az bir tane rakam içermelidir.",
   "The :attribute must contain at least one symbol.": ":attribute en az bir tane özel karakter içermelidir.",
   "The :attribute must contain at least one uppercase and one lowercase letter.": ":attribute en az bir tane büyük harf ve küçük harf içermelidir.",
-  "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Verilen :attribute bir veri sızıntısında ortaya çıktı. Lütfen başka bir :attribute seçiniz."
+  "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Verilen :attribute bir veri sızıntısında ortaya çıktı. Lütfen başka bir :attribute seçiniz.",
+  "(and :count more errors)": "(ve :count daha fazla hata)",
+  "(and :count more error)": "(ve :count hata)",
+  "The given data was invalid.": "Verilen veri geçersizdi."
 }
